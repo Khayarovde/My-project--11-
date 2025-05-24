@@ -1,0 +1,35 @@
+================================================== Steel railing - Garde-corps en acier ==========================================================
+[En]
+
+Hi and thank you for downloading this model from Jetstorm_477 !
+
+> Model in 7 formats : .obj ; .dxf ; .dwg ; .3ds ; .stl ; .sldprt ; .cgr
+  The SolidWorks model (.sldprt) is the original file from which I created the .obj model ;
+  So the .3ds and .stl formats are derived, colorless.
+  I recommend you to remove the model from any archive during using, in order to avoid import problems.
+
+  © 3D modeling by myself ; your aren't allowed to convert in other format(s), upload, or sell this model without my approval.
+
+  Don't forget to leave me a comment or an e-mail in case of problems or suggestions !
+My e-mail adress : ley1998@live.fr
+
+	enjoy ;)
+
+******************************************************************************************************************************************************
+[Fr]
+
+Boujour et merci d'avoir téléchargé ce modèle de Jetstorm_477 !
+
+> Modèle joint en 7 formats : .obj ; .dxf ; .dwg ; .3ds ; .stl ; .sldprt ; .cgr
+  Le modèle SolidWorks (.sldprt) est le fichier original à partir duquel j'ai créé le modèle .obj ;
+  Les modèles .3ds et .stl sont donc des formats dérivés, sans couleur.
+  Je vous recommande d'extraire le modèle de toute archive lors de son utilisation pour éviter les problèmes d'import.
+
+  © Modélisation 3D par moi-même ; vous n'êtes donc pas autorisé à convertir, mettre en ligne, ou vendre ce modèle sans mon autorisation.
+
+  N'hésitez-pas à me laisser un commentaire ou un mail en cas de problèmes ou de suggestions !
+Mon mail : ley1998@live.fr
+
+	a+ ;)
+
+=======================================================================================================================================================
